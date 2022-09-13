@@ -1,4 +1,4 @@
-# sales-invoice-generator
+#1 sales-invoice-generator
 Udacity fwd 1st project
 public class Invoice extends javax.swing.JFrame {
 public Invoice () {
